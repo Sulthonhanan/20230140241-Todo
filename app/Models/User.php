@@ -14,6 +14,7 @@ class User extends Authenticatable
         'name',
         'email',
         'password',
+        'role', // ✅ WAJIB
     ];
 
     protected $hidden = [
@@ -29,13 +30,11 @@ class User extends Authenticatable
         ];
     }
 
-    // 🔹 Relasi ke Kategori
     public function kategoris()
     {
         return $this->hasMany(Kategori::class);
     }
 
-    // 🔹 Relasi ke Product
     public function products()
     {
         return $this->hasMany(Product::class);
