@@ -11,3 +11,9 @@
 #ERD
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/a9ba5490-66d8-4e10-8242-c688400dafc5" />
 #Prak 4
+create
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/4c2cc84e-77e2-47bf-a804-04b870eb4203" />
+view
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/799e8ed7-b001-4936-97ac-d4882723a0a5" />
+index
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/04ce5e96-66de-4d3e-bfae-2c0da37ce364" />
