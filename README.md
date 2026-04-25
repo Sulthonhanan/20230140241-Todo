@@ -17,3 +17,10 @@ view
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/799e8ed7-b001-4936-97ac-d4882723a0a5" />
 index
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/04ce5e96-66de-4d3e-bfae-2c0da37ce364" />
+#Prak 6
+Product
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/2f6f5e77-a757-4089-9b9d-2671f5b2dd5e" />
+form
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/e7247aef-0783-49fb-8986-75058744bd83" />
+#Prak 7
+
