@@ -49,3 +49,6 @@
 
 <h3 align="center"><b>Add Category</b></h3>
 <img width="1919" height="913" src="https://github.com/user-attachments/assets/de08df50-95a8-4d90-8b3e-1c967de041cb" />
+
+<h3 align="center"><b>Add Product</b></h3>
+<img width="1913" height="899" alt="image" src="https://github.com/user-attachments/assets/ddeb714a-b768-41ab-8dae-1342899464f4" />
