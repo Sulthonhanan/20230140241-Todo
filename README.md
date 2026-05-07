@@ -38,6 +38,7 @@
 
 <h2 align="center"><b>Prak 7</b></h2>
 <img width="1920" height="1020" src="https://github.com/user-attachments/assets/3cb2f759-4a84-4cb3-a99c-e714addd4fe1" />
+<img width="1918" height="967" alt="image" src="https://github.com/user-attachments/assets/9e448a9f-15a0-42c3-b19a-b4a91f9f3b8f" />
 
 <h2 align="center"><b>UCP 1</b></h2>
 
