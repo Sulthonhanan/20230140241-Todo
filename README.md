@@ -53,3 +53,6 @@
 
 <h3 align="center"><b>Add Product</b></h3>
 <img width="1913" height="899" alt="image" src="https://github.com/user-attachments/assets/ddeb714a-b768-41ab-8dae-1342899464f4" />
+<h2 align="center"><b>Prak 9</b></h2>
+<img width="1918" height="912" alt="image" src="https://github.com/user-attachments/assets/ff65b7cd-bf03-4813-8595-e575b2f93ff8" />
+
